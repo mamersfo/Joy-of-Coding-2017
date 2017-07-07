@@ -1,0 +1,108 @@
+# Joy of Coding 2017
+
+[Joy of Coding](http://joyofcoding.org) is een onafhankelijke en laagdrempelige conferentie voor gedreven software-ontwikkelaars. Ontstaan binnen Finalist, en nu juridisch ondergebracht bij [Stichting Devnology](http://devnology.nl), trekt de conferentie jaarlijks honderden bezoekers uit binnen- en buitenland naar Rotterdam, en wel voor één gemeenschappelijk doel:
+
+    "to celebrate the art, craft, science and joy of software development"
+
+Op vrijdag 30 juni j.l vond alweer de 5e editie van de conferentie plaats, dit keer in De Rotterdamse Schouwburg, doorgaans (letterlijk) het toneel voor dans- en theaterproducties.
+
+Finalist is sponsor van Joy of Coding. Voor deze editie, en ook voor alle voorgaande edities. Dank zij de ruimhartige steun van sponsors is het [Joy of Coding team](http://joyofcoding.org/about/) in staat om tegen een vriendelijke toegangsprijs een volledig gecaterd evenement te organiseren op een toplocatie, om zodoende een ideaal podium te bieden voor interessante sprekers van wereldfaam.
+
+
+## AIsland
+
+Finalist was betrokken als sponsor, maar heeft ook een belangrijke bijdrage geleverd voor de enige workshop van de conferentie: de [AIsland Game Contest](http://joyofcoding.org/speaker/a-i-sland/), door Dion van Dam ontwikkeld gedurende zijn afstudeerstage bij Finalist.
+
+AIsland is een programmeerchallenge: ontwikkel een AI (artificial intelligence) bot die met andere bots strijdt om de heerschappij over een denkbeeldig eiland, gevisualiseerd op de enorme mediawand in de hal van De Rotterdamse Schouwburg.
+
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">
+<a href="https://twitter.com/hashtag/Joyofcoding?src=hash">\#Joyofcoding</a> has a game screen going on where participants will code bots that will compete all day (also <a href="https://twitter.com/jessitron">@jessitron</a>) <a href="https://t.co/4VTbIr3g8y">pic.twitter.com/4VTbIr3g8y</a></p>&mdash; Romeu Moura (@malk_zameth) <a href="https://twitter.com/malk_zameth/status/880682728164904960">June 30, 2017</a>
+</blockquote>
+
+
+## Ted Neward
+
+De eerste keynote speech werd verzorgd door [Ted Neward](http://joyofcoding.org/speaker/ted-neward/) (Twitter: [\@tedneward](https://twitter.com/tedneward)). Ted lijkt op een grunge rocker, komt ook uit Seattle, maar is een [polyglot programmeur](https://deanwampler.github.io/polyglotprogramming/). Zijn talk getiteld "Living the Good Life" was de eerste, maar niet de enige filosofisch getinte spreekbeurt van de dag, zo zou blijken. Wat is het goede leven voor programmeurs? Het voorbeeld van de gepassioneerde programmeur dient zich aan, de eenzame maar onvermoeibare hacker die 14 uur per dag aan het coderen is, af en toe gevoed door pizza en cola. Volgens Ted Neward is de waarde van passie voor het programmeren op zichzelf heel beperkt. Passie kost bovendien veel energie, het neemt gaandeweg af, waardoor aan het eind van de rit niets overblijft. Waar het om gaat is de betekenis van coderen voor anderen, voor je omgeving. Bijvoorbeeld, bij Finalist bouwen we niet alleen maar in teams, aan systemen die hulp bieden aan patiënten, leerlingen, vluchtelingen, waardoor het plezier van programmeren tevens een betekenisvolle manier van programmeren is.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“The pursuit of the <a href="https://twitter.com/hashtag/Joyofcoding?src=hash">\#Joyofcoding</a>, is there pursuit of the good life: what Greeks called Eudaimonia” — <a href="https://twitter.com/tedneward">@tedneward</a> <a href="https://t.co/iuuJyKLQy1">pic.twitter.com/iuuJyKLQy1</a></p>&mdash; Romeu Moura (@malk_zameth) <a href="https://twitter.com/malk_zameth/status/880692885963894784">June 30, 2017</a></blockquote>
+
+## Jessica Kerr
+
+De volgende talk werd verzorgd door [Jessica Kerr](http://joyofcoding.org/speaker/jessica-kerr/) (Twitter: [\@jessitron](https://twitter.com/jessitron)): Shaving the Golden Yak. Elke programmeur heeft wel eens gehoord van de term [yak shaving](http://www.urbandictionary.com/define.php?term=yak%20shaving). Jessica legt hier op zowel verbaal als visueel sterke wijze uit dat er in feite vele verschillende soorten yak\'s zijn, en dat die elk een verschillende soort benadering vergen.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great presentation by <a href="https://twitter.com/jessitron">@jessitron</a> and really wonderful illustrations of yaks <a href="https://twitter.com/hashtag/JoyOfCoding?src=hash">\#JoyOfCoding</a> <a href="https://t.co/fIkX066jFT">pic.twitter.com/fIkX066jFT</a></p>&mdash; Gigasquid (@gigasquid) <a href="https://twitter.com/gigasquid/status/880720308214407168">June 30, 2017</a></blockquote>
+
+Jessica heeft haar verhaal gevat in een serie blog posts, zodat ook mensen die niet naar Joy of Coding zijn geweest over de kunst van het yak scheren kunnen lezen:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Based on my <a href="https://twitter.com/hashtag/joyofcoding?src=hash">\#joyofcoding</a> talk last week, a blog series about yak shaving: divide and conquer!<a href="https://t.co/D6ZGklm6q6">https://t.co/D6ZGklm6q6</a></p>&mdash; Jessica Kerr (@jessitron) <a href="https://twitter.com/jessitron/status/881990044961177602">July 3, 2017</a></blockquote> 
+
+## Lightning Talks
+
+Op de vijfde editie van Joy of Coding zijn voor het eerst _lightning talks_ gehouden. Normale presentaties duren gewoonlijk drie kwartier of daaromtrent. Een lightning talk daarentegen is van veel kortere duur.
+
+Hier kregen [zeven sprekers](http://joyofcoding.org/speaker/lightning/) elk slechts vijf minuten de tijd om over hun _joy of coding_ te spreken. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&\#39;s now time for the <a href="https://twitter.com/hashtag/LightningTalks?src=hash">\#LightningTalks</a> at the <a href="https://twitter.com/hashtag/JoyOfCoding?src=hash">\#JoyOfCoding</a> <a href="https://twitter.com/hashtag/Hooray?src=hash">\#Hooray</a>! <a href="https://twitter.com/JoyOfCoding">@JoyOfCoding</a> <a href="https://t.co/xVt3LAHGmu">pic.twitter.com/xVt3LAHGmu</a></p>&mdash; Coderclass (@metiscoderclass) <a href="https://twitter.com/metiscoderclass/status/880722164336529408">June 30, 2017</a></blockquote>
+
+Herman Peeren (Twitter: [\@HermanPeeren](https://twitter.com/HermanPeeren) bood een interessante vergelijking, namelijk tussen [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) en de filosofie van [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) (althans, de Wittgenstein van de [Tractatus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)). In beide systemen wordt immers de nadruk gelegd op atomische feiten als representatie van de werkelijkheid.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lightning talk by <a href="https://twitter.com/HermanPeeren">@HermanPeeren</a> on how Wittgenstein described event sourcing. Such a great thought! <a href="https://twitter.com/hashtag/joyofcoding?src=hash">\#joyofcoding</a> <a href="https://t.co/bfjnQjHRB7">pic.twitter.com/bfjnQjHRB7</a></p>&mdash; Felienne (@Felienne) <a href="https://twitter.com/Felienne/status/880725157144297472">June 30, 2017</a></blockquote> 
+
+Een ander hoogtepunt onder de lightning talks was die van Israh Emara en Jochem Baas, brugklasscholieren van een Montessorischool uit Amsterdam waar zij lessen in coderen krijgen (Twitter: [\@metiscoderclass](https://twitter.com/metiscoderclass)). Het was heel interessant om te zien hoeveel plezier deze kinderen hebben aan het coderen in JavaScript en Python, en hoe zij het programmeren leren ontdekken.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Really wow! Two twelve year olds talking to a room with 200 developers. In English. <a href="https://twitter.com/hakan_akkas">@hakan_akkas</a> must be so proud (I am!) <a href="https://twitter.com/hashtag/joyofcoding?src=hash">\#joyofcoding</a> <a href="https://t.co/2naDc2TnNV">pic.twitter.com/2naDc2TnNV</a></p>&mdash; Felienne (@Felienne) <a href="https://twitter.com/Felienne/status/880729071084240897">June 30, 2017</a></blockquote>
+
+## Speed Meeting
+
+Parallel aan de Lightning Talks vond in de hal van De Schouwburg een [Speed Meeting](http://joyofcoding.org/speaker/speed-meeting/) plaats, georganiseerd door onze eigen Linda van der Pal (Twitter: [\@DuchessFounder](https://twitter.com/DuchessFounder)).
+
+Speedmeeting houdt in dat je je in drie minuten tijd wederzijds voorstelt aan een willekeurig ander iemand. Na die drie minuten luidt de bel en stel je je voor aan iemand anders.
+
+## Neal Ford
+
+[Neal Ford](http://joyofcoding.org/speaker/neal-ford/) (Twitter: [\@Neal4d](https://twitter.com/Neal4d)) is een wereldbekende spreker, als software architect en [meme wrangler](http://nealford.com/memeagora/2011/05/01/meme_wrangler_origins.html) verbonden aan het succesvolle Thoughtworks. De vele talks en publicaties van Neal, en bijvoorbeeld ook van zijn collega Martin Fowler leveren zoveel publiciteit op dat ze bij het bedrijf toekomen met slechts een bescheiden marketingbudget.
+
+Neal weet zijn publiek in ieder geval te prikkelen, neem bijvoorbeeld een paar quotes uit zijn talk "Stories Every Developer Should Know":
+
+    "The more reusable something is, the less usable it is"
+
+    "When work is boring, developers invent problems. Like frameworks."
+
+    "Amazon is in the business of being your datacenter but they have a hobby of selling you goods too"
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">TIL the history of null. <a href="https://twitter.com/hashtag/joyofcoding?src=hash">\#joyofcoding</a> <a href="https://t.co/ThfwzkM68b">https://t.co/ThfwzkM68b</a> <a href="https://t.co/29a2km2x3q">pic.twitter.com/29a2km2x3q</a></p>&mdash; Alex Nederlof (@alexnederlof) <a href="https://twitter.com/alexnederlof/status/880749561840578560">June 30, 2017</a></blockquote> 
+
+## Llewellyn Falco
+
+Alle sprekers die zijn uitgenodig voor Joy of Coding 2017 zijn afkomstig uit de Verenigde Staten. Zo ook [Llewellyn Falco](http://joyofcoding.org/speaker/llewellyn-falco/) (Twitter: [\@LlewellynFalco](https://twitter.com/LlewellynFalco)), alleen hij woont als enige van de sprekers in Europa - in Finland om precies te zijn. Llew is trouwens ook de enige met blauw haar.
+
+Llewellyn Falco is bekend van onder meer _[approval tests](http://approvaltests.com)_, maar deze sessie stond geheel in het teken van [mob programming](https://en.wikipedia.org/wiki/Mob_programming): een soort pair programming, maar dan met een meute aan programmeurs. Gedurende deze _live coding_ sessie verscheen er een heuse 'mob' op het toneel.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mob programming (5+ devs on one computer, change driver every 5min) works because you get the max of all individual perf <a href="https://twitter.com/hashtag/joyofcoding?src=hash">\#joyofcoding</a> <a href="https://t.co/nmRDElzOg0">pic.twitter.com/nmRDElzOg0</a></p>&mdash; Anne Veling (@anneveling) <a href="https://twitter.com/anneveling/status/880759693232222208">June 30, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mob programming - live at <a href="https://twitter.com/hashtag/joyofcoding?src=hash">\#joyofcoding</a> with <a href="https://twitter.com/LlewellynFalco">@LlewellynFalco</a> <a href="https://t.co/nt33KvW6jk">pic.twitter.com/nt33KvW6jk</a></p>&mdash; JoyOfCoding (@JoyOfCoding) <a href="https://twitter.com/JoyOfCoding/status/880762956874743809">June 30, 2017</a></blockquote> 
+
+## Koshin Mariano
+
+[Koshin Mariano](http://joyofcoding.org/speaker/koshin-mariano/) (Twitter: [\@Koshin_M](https://twitter.com/Koshin_M)) is programmeur, en geeft tevens leiding aan een team van programmeurs bij Citrix. Een divers team van talenten dat hij zelf heeft opgebouwd, en hij heeft zijn ervaringen gevat in een talk: "How to hire and work with people who aren't like you".
+
+Koshin had vooral de aandacht van het publiek te pakken tijdens de uitgebreide Q&A, waarin hij vele nuttige tips gaf. Bijvoorbeeld, je werkt voor een bedrijf als Finalist, en biedt een veilige werkomgeving waarin diversiteit van harte wordt ondersteund. Maar het kan natuurlijk altijd beter, alleen hoe doe je dat? Koshin zei dat dit het niet volstaat om alleen te beweren dat je diversiteit ondersteunt, maar het ook laat zien, bijvoorbeeld door hackatons speciaal voor vrouwelijke programmeurs te organiseren.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Always Be Recruiting. <a href="https://twitter.com/Koshin_M">@Koshin <- M</a> <a href="https://twitter.com/hashtag/joyOfCoding?src=hash">\#joyOfCoding</a> <a href="https://t.co/MCB4OkpVoW">pic.twitter.com/MCB4OkpVoW</a></p>&mdash; Jessica Kerr (@jessitron) <a href="https://twitter.com/jessitron/status/880784250915753984">June 30, 2017</a></blockquote> 
+
+## Carin Meier
+
+[Carin Meier](http://joyofcoding.org/speaker/carin-meier/) (Twitter: [\@gigasquid](https://twitter.com/gigasquid)) is programmeur, robotfanaat en voormalig ballerina. Haar afsluitende talk, getiteld: "The Joy of Stochastic Gradient Descent" was een uiterst toegankelijke inleiding tot het vakgebied van [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
+
+Helaas hadden we op de conferentie niet genoeg tijd voor de uitgebreide versie van Carin\'s talk, waarin veel code-voorbeelden zijn opgenomen (in het ons dierbare Clojure). Maar gelukkig schrijft Carin ook een [blog](http://gigasquidsoftware.com/blog/2016/12/27/deep-learning-in-clojure-with-cortex/) waarin dit allemaal ruimschoots aan bod komt.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great time to be a programmer <a href="https://twitter.com/hashtag/JoyOfCoding?src=hash">\#JoyOfCoding</a> <a href="https://t.co/EIQfBqrUpt">pic.twitter.com/EIQfBqrUpt</a></p>&mdash; JanVanRyswyck (@JanVanRyswyck) <a href="https://twitter.com/JanVanRyswyck/status/880794697341468672">June 30, 2017</a></blockquote>
+
+## Dancing Robots
+
+Het laatste onderdeel op het toneel van De Schouwburg was gereserveerd voor [de winnaars van de Robocup Junior competitie](http://joyofcoding.org/speaker/robocup/). Vijf basisscholieren van amper 9 jaar uit Haarlem mochten hun winnende ontwerp demonstreren, dansende robots op het thema: de sumo-worstelaar en de prinses!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last demo is robots dancing by kids. How great is that? <a href="https://t.co/wisbRHysjf">pic.twitter.com/wisbRHysjf</a></p>&mdash; Gigasquid (@gigasquid) <a href="https://twitter.com/gigasquid/status/880797868835168256">June 30, 2017</a></blockquote> 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
